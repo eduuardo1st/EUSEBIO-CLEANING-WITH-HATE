@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Prints/logo.png" width="80%" />
+</p>
+
 # Eusébio, Cleaning with Hate 🧹🔥
 
 Eusébio, Cleaning with Hate é um jogo **2D top-down** de ação e aventura com elementos de RPG e uma narrativa única e bem-humorada.  
