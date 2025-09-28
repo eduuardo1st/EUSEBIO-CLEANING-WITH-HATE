@@ -14,7 +14,20 @@ Você controla **Eusébio**, um velho guerreiro aposentado que agora trabalha co
 
 - **Missão:** Limpe a caverna infestada de monstros usando sua vassoura e toda a sua experiência de combate!  
 - **Progresso:** Derrote inimigos, colete **XP** e fique mais forte a cada batalha.  
-- **Desafios:** Enfrente slimes, esqueletos, goblins e o chefe final: **O Ceifador**!  
+- **Desafios:** Enfrente slimes, esqueletos, goblins e o chefe final: **O Ceifador**!
+
+---
+
+## 🖼️ Prints de Gameplay
+
+<p align="center">
+  <img src="Prints/1.png" width="45%" />
+  <img src="Prints/2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="Prints/3.png" width="45%" />
+  <img src="Prints/4.png" width="45%" />
+</p>
 
 ---
 
@@ -42,19 +55,6 @@ Esse sistema adiciona uma camada de estratégia, transformando cada combate em u
 - **Eduardo Gonçalves** - Game Director & Lead Programmer  
 - **Arthur Vieira** - Level Designer & Story Writer  
 - **Renan Rocha** - Character Artist  
-
----
-
-## 🖼️ Prints de Gameplay
-
-<p align="center">
-  <img src="Prints/1.png" width="45%" />
-  <img src="Prints/2.png" width="45%" />
-</p>
-<p align="center">
-  <img src="Prints/3.png" width="45%" />
-  <img src="Prints/4.png" width="45%" />
-</p>
 
 ---
 
