@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Prints/logo.png" width="80%" />
+  <img src="Prints/logo.jpg" width="80%" />
 </p>
 
 # Eusébio, Cleaning with Hate 🧹🔥
